@@ -1,6 +1,6 @@
 # Project Portfolio
 
-## 🎵 Educational Song Generator (Freelance Project)
+## 🎵 Educational Song Generator 
 
 An interactive app that generates customized educational songs based on user input.
 
